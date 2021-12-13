@@ -1,0 +1,294 @@
+LangID,CountryID,LangStatus,Name_lang,Name_country,Area
+aae,IT,L,"Albanian, Arbëreshë",Italy,Europe
+cim,IT,L,Cimbrian,Italy,Europe
+egl,IT,L,Emilian,Italy,Europe
+fur,IT,L,Friulian,Italy,Europe
+ils,IT,L,International Sign,Italy,Europe
+ise,IT,L,Italian Sign Language,Italy,Europe
+ita,IT,L,Italian,Italy,Europe
+itk,IT,L,Judeo-Italian,Italy,Europe
+lij,IT,L,Ligurian,Italy,Europe
+lld,IT,L,Ladin,Italy,Europe
+lmo,IT,L,Lombard,Italy,Europe
+mhn,IT,L,Mócheno,Italy,Europe
+nap,IT,L,Napoletano-Calabrese,Italy,Europe
+pms,IT,L,Piedmontese,Italy,Europe
+rgn,IT,L,Romagnol,Italy,Europe
+scn,IT,L,Sicilian,Italy,Europe
+sdc,IT,L,"Sardinian, Sassarese",Italy,Europe
+sdn,IT,L,"Sardinian, Gallurese",Italy,Europe
+src,IT,L,"Sardinian, Logudorese",Italy,Europe
+sro,IT,L,"Sardinian, Campidanese",Italy,Europe
+svm,IT,L,Slavomolisano,Italy,Europe
+vec,IT,L,Venetian,Italy,Europe
+aat,GR,L,"Albanian, Arvanitika",Greece,Europe
+cpg,GR,L,Cappadocian Greek,Greece,Europe
+ell,GR,L,Greek,Greece,Europe
+grc,GR,L,"Greek, Ancient",Greece,Europe
+gss,GR,L,Greek Sign Language,Greece,Europe
+pnt,GR,L,Pontic,Greece,Europe
+rge,GR,L,Romano-Greek,Greece,Europe
+ruq,GR,L,"Romanian, Megleno",Greece,Europe
+tsd,GR,L,Tsakonian,Greece,Europe
+abq,RU,L,Abaza,Russian Federation,Europe
+ady,RU,L,Adyghe,Russian Federation,Europe
+agx,RU,L,Aghul,Russian Federation,Europe
+akv,RU,L,Akhvakh,Russian Federation,Europe
+alr,RU,L,Alutor,Russian Federation,Europe
+alt,RU,L,"Altai, Southern",Russian Federation,Europe
+ani,RU,L,Andi,Russian Federation,Europe
+aqc,RU,L,Archi,Russian Federation,Europe
+atv,RU,L,"Altai, Northern",Russian Federation,Europe
+ava,RU,L,Avar,Russian Federation,Europe
+bak,RU,L,Bashkort,Russian Federation,Europe
+bph,RU,L,Botlikh,Russian Federation,Europe
+bxr,RU,L,"Buriat, Russia",Russian Federation,Europe
+che,RU,L,Chechen,Russian Federation,Europe
+chu,RU,L,"Slavonic, Church",Russian Federation,Europe
+chv,RU,L,Chuvash,Russian Federation,Europe
+cji,RU,L,Chamalal,Russian Federation,Europe
+cjs,RU,L,Shor,Russian Federation,Europe
+ckt,RU,L,Chukchi,Russian Federation,Europe
+clw,RU,L,Chulym,Russian Federation,Europe
+dar,RU,L,Dargwa,Russian Federation,Europe
+ddo,RU,L,Dido,Russian Federation,Europe
+dlg,RU,L,Dolgan,Russian Federation,Europe
+enf,RU,L,"Enets, Forest",Russian Federation,Europe
+enh,RU,L,"Enets, Tundra",Russian Federation,Europe
+eve,RU,L,Even,Russian Federation,Europe
+gdo,RU,L,Ghodoberi,Russian Federation,Europe
+gin,RU,L,Hinukh,Russian Federation,Europe
+gld,RU,L,Nanai,Russian Federation,Europe
+huz,RU,L,Hunzib,Russian Federation,Europe
+inh,RU,L,Ingush,Russian Federation,Europe
+itl,RU,L,Itelmen,Russian Federation,Europe
+izh,RU,L,Ingrian,Russian Federation,Europe
+jdt,RU,L,Judeo-Tat,Russian Federation,Europe
+kap,RU,L,Bezhta,Russian Federation,Europe
+kbd,RU,L,Kabardian,Russian Federation,Europe
+kca,RU,L,Khanty,Russian Federation,Europe
+ket,RU,L,Ket,Russian Federation,Europe
+khv,RU,L,Khvarshi,Russian Federation,Europe
+kim,RU,L,Karagas,Russian Federation,Europe
+kjh,RU,L,Khakas,Russian Federation,Europe
+koi,RU,L,Komi-Permyak,Russian Federation,Europe
+kpt,RU,L,Karata,Russian Federation,Europe
+kpv,RU,L,Komi-Zyrian,Russian Federation,Europe
+kpy,RU,L,Koryak,Russian Federation,Europe
+krc,RU,L,Karachay-Balkar,Russian Federation,Europe
+krk,RU,L,Kerek,Russian Federation,Europe
+krl,RU,L,Karelian,Russian Federation,Europe
+kum,RU,L,Kumyk,Russian Federation,Europe
+kva,RU,L,Bagvalal,Russian Federation,Europe
+lbe,RU,L,Lak,Russian Federation,Europe
+lez,RU,L,Lezgi,Russian Federation,Europe
+lud,RU,L,Ludian,Russian Federation,Europe
+mdf,RU,L,Moksha,Russian Federation,Europe
+mhr,RU,L,"Mari, Meadow",Russian Federation,Europe
+mns,RU,L,Mansi,Russian Federation,Europe
+mrj,RU,L,"Mari, Hill",Russian Federation,Europe
+mud,RU,L,"Aleut, Mednyj",Russian Federation,Europe
+myv,RU,L,Erzya,Russian Federation,Europe
+neg,RU,L,Negidal,Russian Federation,Europe
+nio,RU,L,Nganasan,Russian Federation,Europe
+niv,RU,L,Gilyak,Russian Federation,Europe
+nog,RU,L,Nogai,Russian Federation,Europe
+oaa,RU,L,Orok,Russian Federation,Europe
+oac,RU,L,Oroch,Russian Federation,Europe
+olo,RU,L,Livvi-Karelian,Russian Federation,Europe
+oss,RU,L,Ossetic,Russian Federation,Europe
+rsl,RU,L,Russian Sign Language,Russian Federation,Europe
+rus,RU,L,Russian,Russian Federation,Europe
+rut,RU,L,Rutul,Russian Federation,Europe
+sah,RU,L,Yakut,Russian Federation,Europe
+sel,RU,L,Selkup,Russian Federation,Europe
+sia,RU,L,"Saami, Akkala",Russian Federation,Europe
+sjd,RU,L,"Saami, Kildin",Russian Federation,Europe
+sjt,RU,L,"Saami, Ter",Russian Federation,Europe
+sty,RU,L,Siberian Tatar,Russian Federation,Europe
+tab,RU,L,Tabasaran,Russian Federation,Europe
+tat,RU,L,Tatar,Russian Federation,Europe
+tin,RU,L,Tindi,Russian Federation,Europe
+tyv,RU,L,Tuvan,Russian Federation,Europe
+ude,RU,L,Udihe,Russian Federation,Europe
+udm,RU,L,Udmurt,Russian Federation,Europe
+ulc,RU,L,Ulch,Russian Federation,Europe
+vep,RU,L,Veps,Russian Federation,Europe
+vot,RU,L,Vod,Russian Federation,Europe
+xal,RU,L,Kalmyk-Oirat,Russian Federation,Europe
+xas,RU,X,Kamas,Russian Federation,Europe
+ykg,RU,L,"Yukaghir, Northern",Russian Federation,Europe
+ynk,RU,L,"Yupik, Naukan",Russian Federation,Europe
+yrk,RU,L,Nenets,Russian Federation,Europe
+ysr,RU,X,"Yupik, Sirenik",Russian Federation,Europe
+yug,RU,L,Yug,Russian Federation,Europe
+yux,RU,L,"Yukaghir, Southern",Russian Federation,Europe
+act,NL,L,Achterhoeks,Netherlands,Europe
+drt,NL,L,Drents,Netherlands,Europe
+dse,NL,L,Sign Language of the Netherlands,Netherlands,Europe
+fry,NL,L,Frisian,Netherlands,Europe
+gos,NL,L,Gronings,Netherlands,Europe
+lim,NL,L,Limburgish,Netherlands,Europe
+nld,NL,L,Dutch,Netherlands,Europe
+sdz,NL,L,Sallands,Netherlands,Europe
+stl,NL,L,Stellingwerfs,Netherlands,Europe
+twd,NL,L,Twents,Netherlands,Europe
+vel,NL,L,Veluws,Netherlands,Europe
+zea,NL,L,Zeeuws,Netherlands,Europe
+aln,AL,L,"Albanian, Gheg",Albania,Europe
+als,AL,L,"Albanian, Tosk",Albania,Europe
+sqk,AL,L,Albanian Sign Language,Albania,Europe
+arg,ES,L,Aragonese,Spain,Europe
+ast,ES,L,Asturian,Spain,Europe
+cat,ES,L,Catalan,Spain,Europe
+csc,ES,L,Catalan Sign Language,Spain,Europe
+eus,ES,L,Basque,Spain,Europe
+ext,ES,L,Extremaduran,Spain,Europe
+fax,ES,L,Fala,Spain,Europe
+glg,ES,L,Galician,Spain,Europe
+quq,ES,L,Quinqui,Spain,Europe
+rmq,ES,L,Caló,Spain,Europe
+spa,ES,L,Spanish,Spain,Europe
+ssp,ES,L,Spanish Sign Language,Spain,Europe
+vsv,ES,L,Valencian Sign Language,Spain,Europe
+asq,AT,L,Austrian Sign Language,Austria,Europe
+bar,AT,L,Bavarian,Austria,Europe
+bel,BY,L,Belarusian,Belarus,Europe
+bfi,GB,L,British Sign Language,United Kingdom,Europe
+cor,GB,L,Cornish,United Kingdom,Europe
+cym,GB,L,Welsh,United Kingdom,Europe
+eng,GB,L,English,United Kingdom,Europe
+gla,GB,L,Scottish Gaelic,United Kingdom,Europe
+pld,GB,L,Polari,United Kingdom,Europe
+rme,GB,L,Angloromani,United Kingdom,Europe
+rmw,GB,L,"Romani, Welsh",United Kingdom,Europe
+sco,GB,L,Scots,United Kingdom,Europe
+trl,GB,L,Traveller Scottish,United Kingdom,Europe
+bos,BA,L,Bosnian,Bosnia and Herzegovina,Europe
+bqn,BG,L,Bulgarian Sign Language,Bulgaria,Europe
+bul,BG,L,Bulgarian,Bulgaria,Europe
+bre,FR,L,Breton,France,Europe
+cos,FR,L,Corsican,France,Europe
+emx,FR,L,Erromintxela,France,Europe
+fra,FR,L,French,France,Europe
+frp,FR,L,Arpitan,France,Europe
+fsl,FR,L,French Sign Language,France,Europe
+oci,FR,L,Occitan,France,Europe
+pcd,FR,L,Picard,France,Europe
+sdt,FR,X,Shuadit,France,Europe
+ces,CZ,L,Czech,Czechia,Europe
+cse,CZ,L,Czech Sign Language,Czechia,Europe
+ckm,HR,L,Chakavian,Croatia,Europe
+csq,HR,L,Croatian Sign Language,Croatia,Europe
+hrv,HR,L,Croatian,Croatia,Europe
+ist,HR,L,Istriot,Croatia,Europe
+ruo,HR,L,"Romanian, Istro",Croatia,Europe
+cnr,ME,L,Montenegrin,Montenegro,Europe
+crh,UA,L,Crimean Tatar,Ukraine,Europe
+jct,UA,L,Krimchak,Ukraine,Europe
+rue,UA,L,Rusyn,Ukraine,Europe
+ukl,UA,L,Ukrainian Sign Language,Ukraine,Europe
+ukr,UA,L,Ukrainian,Ukraine,Europe
+csb,PL,L,Kashubian,Poland,Europe
+epo,PL,L,Esperanto,Poland,Europe
+pol,PL,L,Polish,Poland,Europe
+prg,PL,L,Prussian,Poland,Europe
+pso,PL,L,Polish Sign Language,Poland,Europe
+rml,PL,L,"Romani, Baltic",Poland,Europe
+sli,PL,L,"Silesian, Lower",Poland,Europe
+szl,PL,L,Silesian,Poland,Europe
+wym,PL,L,Wymysorys,Poland,Europe
+dan,DK,L,Danish,Denmark,Europe
+dsl,DK,L,Danish Sign Language,Denmark,Europe
+rmd,DK,X,Traveller Danish,Denmark,Europe
+deu,DE,L,"German, Standard",Germany,Europe
+dsb,DE,L,"Sorbian, Lower",Germany,Europe
+frr,DE,L,"Frisian, Northern",Germany,Europe
+frs,DE,L,"Saxon, East Frisian Low",Germany,Europe
+gsg,DE,L,German Sign Language,Germany,Europe
+hsb,DE,L,"Sorbian, Upper",Germany,Europe
+ksh,DE,L,Ripuarian,Germany,Europe
+nds,DE,L,"Saxon, Low",Germany,Europe
+pfl,DE,L,Palatinate Franconian,Germany,Europe
+rmo,DE,L,"Romani, Sinte",Germany,Europe
+stq,DE,L,Saterfriesisch,Germany,Europe
+swg,DE,L,Swabian,Germany,Europe
+sxu,DE,L,"Saxon, Upper",Germany,Europe
+vmf,DE,L,Eastern Franconian,Germany,Europe
+wep,DE,L,Westphalien,Germany,Europe
+yec,DE,L,Yeniche,Germany,Europe
+yih,DE,L,"Yiddish, Western",Germany,Europe
+drc,PT,L,Minderico,Portugal,Europe
+mwl,PT,L,Mirandese,Portugal,Europe
+por,PT,L,Portuguese,Portugal,Europe
+psr,PT,L,Portuguese Sign Language,Portugal,Europe
+ekk,EE,L,"Estonian, Standard",Estonia,Europe
+eso,EE,L,Estonian Sign Language,Estonia,Europe
+vro,EE,L,Võro,Estonia,Europe
+fao,FO,L,Faroese,Faroe Islands,Europe
+fin,FI,L,Finnish,Finland,Europe
+fse,FI,L,Finnish Sign Language,Finland,Europe
+fss,FI,L,Finland-Swedish Sign Language,Finland,Europe
+rmf,FI,L,"Romani, Kalo Finnish",Finland,Europe
+smn,FI,L,"Saami, Inari",Finland,Europe
+sms,FI,L,"Saami, Skolt",Finland,Europe
+fit,SE,L,Meänkieli,Sweden,Europe
+ovd,SE,L,Övdalian,Sweden,Europe
+rmu,SE,L,"Romani, Tavringer",Sweden,Europe
+sje,SE,L,"Saami, Pite",Sweden,Europe
+sju,SE,L,"Saami, Ume",Sweden,Europe
+sma,SE,L,"Saami, South",Sweden,Europe
+smj,SE,L,"Saami, Lule",Sweden,Europe
+swe,SE,L,Swedish,Sweden,Europe
+swl,SE,L,Swedish Sign Language,Sweden,Europe
+fkv,NO,L,"Finnish, Kven",Norway,Europe
+nor,NO,L,Norwegian,Norway,Europe
+nsl,NO,L,Norwegian Sign Language,Norway,Europe
+rmg,NO,L,"Norwegian, Traveller",Norway,Europe
+sme,NO,L,"Saami, North",Norway,Europe
+gag,MD,L,Gagauz,Moldova,Europe
+vsi,MD,L,Moldova Sign Language,Moldova,Europe
+gle,IE,L,Irish,Ireland,Europe
+isg,IE,L,Irish Sign Language,Ireland,Europe
+sth,IE,L,Shelta,Ireland,Europe
+glv,IM,L,Manx,Isle of Man,Europe
+gsw,CH,L,"German, Swiss",Switzerland,Europe
+roh,CH,L,Romansh,Switzerland,Europe
+sgg,CH,L,Swiss-German Sign Language,Switzerland,Europe
+slf,CH,L,Swiss-Italian Sign Language,Switzerland,Europe
+ssr,CH,L,Swiss-French Sign Language,Switzerland,Europe
+wae,CH,L,Walser,Switzerland,Europe
+hsh,HU,L,Hungarian Sign Language,Hungary,Europe
+hun,HU,L,Hungarian,Hungary,Europe
+icl,IS,L,Icelandic Sign Language,Iceland,Europe
+isl,IS,L,Icelandic,Iceland,Europe
+kdr,LT,L,Karaim,Lithuania,Europe
+lit,LT,L,Lithuanian,Lithuania,Europe
+lls,LT,L,Lithuanian Sign Language,Lithuania,Europe
+sgs,LT,L,Samogitian,Lithuania,Europe
+lat,VA,L,Latin,Vatican State,Europe
+liv,LV,L,Liv,Latvia,Europe
+lsl,LV,L,Latvian Sign Language,Latvia,Europe
+ltg,LV,L,Latgalian,Latvia,Europe
+lvs,LV,L,"Latvian, Standard",Latvia,Europe
+ltz,LU,L,Luxembourgish,Luxembourg,Europe
+mdl,MT,L,Maltese Sign Language,Malta,Europe
+mlt,MT,L,Maltese,Malta,Europe
+mkd,MK,L,Macedonian,North Macedonia,Europe
+rup,MK,L,Aromanian,North Macedonia,Europe
+nrf,GG,L,Guernésiais,Guernsey,Europe
+rmc,SK,L,"Romani, Carpathian",Slovakia,Europe
+slk,SK,L,Slovak,Slovakia,Europe
+svk,SK,L,Slovakian Sign Language,Slovakia,Europe
+rmn,RS,L,"Romani, Balkan",Serbia,Europe
+rsb,RS,L,Romano-Serbian,Serbia,Europe
+srp,RS,L,Serbian,Serbia,Europe
+rms,RO,L,Romanian Sign Language,Romania,Europe
+rmy,RO,L,"Romani, Vlax",Romania,Europe
+ron,RO,L,Romanian,Romania,Europe
+sfb,BE,L,French Belgian Sign Language,Belgium,Europe
+vgt,BE,L,Flemish Sign Language,Belgium,Europe
+vls,BE,L,West Flemish,Belgium,Europe
+wln,BE,L,Walloon,Belgium,Europe
+slv,SI,L,Slovene,Slovenia,Europe
+ysl,SI,L,Slovenian Sign Language,Slovenia,Europe
