@@ -1,0 +1,149 @@
+Country,langId,languageRaw,official,language
+Albania,0,Albanian 98.8% (official - derived from Tosk dialect),True,Albanian
+Albania,1, Greek 0.5%,False,Greek
+Albania,2, other 0.6% (including Macedonian,False,Macedonian
+Albania,3, Romani,False,Romani
+Albania,4, Vlach,False,Vlach
+Albania,5, Turkish,False,Turkish
+Albania,6, Italian,False,Italian
+Albania,7, and Serbo-Croatian),False,Croatian
+Austria,0,German (official nationwide) 88.6%,True,German
+Austria,1, Turkish 2.3%,False,Turkish
+Austria,2, Serbian 2.2%,False,Serbian
+Austria,3, Croatian (official in Burgenland) 1.6%,True,Croatian
+Austria,4, other (includes Slovene,False,Slovene
+Austria,6, and Hungarian,False,Hungarian
+Austria,7, official in Burgenland) 5.3% (2001 est.),True,Burgenland
+Belarus,0,Russian (official) 70.2%,True,Russian
+Belarus,1, Belarusian (official) 23.4%,True,Belarusian
+Belarus,2, other 3.1% (includes small Polish- and Ukrainian-speaking minorities),False,Polish
+Belgium,0,Dutch (official) 60%,True,Dutch
+Belgium,1, French (official) 40%,True,French
+Belgium,2, German (official) less than 1%,True,German
+Bosnia and Herzegovina,0,Bosnian (official) 52.9%,True,Bosnian
+Bosnia and Herzegovina,1, Serbian (official) 30.8%,True,Serbian
+Bosnia and Herzegovina,2, Croatian (official) 14.6%,True,Croatian
+Bulgaria,0,Bulgarian (official) 76.8%,True,Bulgarian
+Bulgaria,1, Turkish 8.2%,False,Turkish
+Bulgaria,2, Romani 3.8%,False,Romani
+Croatia,0,Croatian (official) 95.6%,True,Croatian
+Croatia,1, Serbian 1.2%,False,Serbian
+Croatia,2, other 3% (including Hungarian,False,Hungarian
+Croatia,3, Czech,False,Czech
+Croatia,4, Slovak,False,Slovak
+Croatia,5, and Albanian),False,Albanian
+Denmark,0,Danish,False,Danish
+Denmark,1, Faroese,False,Faroese
+Denmark,2, Greenlandic (an Inuit dialect),False,Greenlandic
+Denmark,3, German (small minority),False,German
+Estonia,0,Estonian (official) 68.5%,True,Estonian
+Estonia,1, Russian 29.6%,False,Russian
+Estonia,2, Ukrainian 0.6%,False,Ukrainian
+Finland,0,Finnish (official) 87.6%,True,Finnish
+Finland,1, Swedish (official) 5.2%,True,Swedish
+Finland,2, Russian 1.4%,False,Russian
+France,0,French (official) 100%,True,French
+France,1, declining regional dialects and languages (Provencal,False,Provencal
+France,2, Breton,False,Breton
+France,3, Alsatian,False,Alsatian
+France,4, Corsican,False,Corsican
+France,5, Catalan,False,Catalan
+France,6, Basque,False,Basque
+France,7, Flemish,False,Flemish
+France,8, Occitan,False,Occitan
+France,9, Picard),False,Picard
+Germany,0,German (official),True,German
+Greece,0,Greek (official) 99%,True,Greek
+Greece,1, other (includes English and French) 1%,False,English
+Hungary,0,Hungarian (official) 99.6%,True,Hungarian
+Hungary,1, English 16%,False,English
+Hungary,2, German 11.2%,False,German
+Hungary,3, Russian 1.6%,False,Russian
+Hungary,4, Romanian 1.3%,False,Romanian
+Hungary,5, French 1.2%,False,French
+Iceland,0,Icelandic,False,Icelandic
+Iceland,1, English,False,English
+Iceland,2, Nordic languages,False,Nordic
+Iceland,3, German,False,German
+Ireland,0,English (official,True,English
+Ireland,2, Irish (Gaelic or Gaeilge) (official,True,Irish
+Italy,0,Italian (official),True,Italian
+Italy,1, German (parts of Trentino-Alto Adige region are predominantly German speaking),False,German
+Italy,2, French (small French-speaking minority in Valle d'Aosta region),False,French
+Italy,3, Slovene (Slovene-speaking minority in the Trieste-Gorizia area),False,Slovene
+Latvia,0,Latvian (official) 56.3%,True,Latvian
+Latvia,1, Russian 33.8%,False,Russian
+Latvia,2, other 0.6% (includes Polish,False,Polish
+Latvia,3, Ukrainian,False,Ukrainian
+Latvia,4, and Belarusian),False,Belarusian
+Lithuania,0,Lithuanian (official) 82%,True,Lithuanian
+Lithuania,1, Russian 8%,False,Russian
+Lithuania,2, Polish 5.6%,False,Polish
+Luxembourg,0,Luxembourgish (official administrative and judicial language and national language (spoken vernacular)) 55.8%,True,Luxembourgish
+Luxembourg,1, Portuguese 15.7%,False,Portuguese
+Luxembourg,2, French (official administrative,True,French
+Luxembourg,5, German (official administrative and judicial language) 3.1%,True,German
+Luxembourg,6, Italian 2.9%,False,Italian
+Luxembourg,7, English 2.1%,False,English
+Malta,0,Maltese (official) 90.1%,True,Maltese
+Malta,1, English (official) 6%,True,English
+Moldova,0,Moldovan/Romanian 80.2% (official) (56.7% identify their mother tongue as Moldovan,True,Moldovan
+Moldova,1, which is virtually the same as Romanian; 23.5% identify Romanian as their mother tongue),False,Romanian
+Moldova,2, Russian 9.7%,False,Russian
+Moldova,3, Gagauz 4.2% (a Turkish language),False,Gagauz
+Moldova,4, Ukrainian 3.9%,False,Ukrainian
+Moldova,5, Bulgarian 1.5%,False,Bulgarian
+Moldova,6, Romani 0.3%,False,Romani
+Montenegro,0,Serbian 42.9%,False,Serbian
+Montenegro,1, Montenegrin (official) 37%,True,Montenegrin
+Montenegro,2, Bosnian 5.3%,False,Bosnian
+Montenegro,3, Albanian 5.3%,False,Albanian
+Montenegro,4, Serbo-Croat 2%,False,Serbo
+Netherlands,0,Dutch (official),True,Dutch
+Norway,0,Bokmal Norwegian (official),True,Bokmal
+Norway,1, Nynorsk Norwegian (official),True,Nynorsk
+Norway,2, small Sami- and Finnish-speaking minorities,False,Sami
+Poland,0,Polish (official) 98.2%,True,Polish
+Poland,1, Silesian 1.4%,False,Silesian
+Portugal,0,Portuguese (official),True,Portuguese
+Portugal,1, Mirandese (official,True,Mirandese
+Romania,0,Romanian (official) 85.4%,True,Romanian
+Romania,1, Hungarian 6.3%,False,Hungarian
+Romania,2, Romani 1.2%,False,Romani
+Serbia,0,Serbian (official) 88.1%,True,Serbian
+Serbia,1, Hungarian 3.4%,False,Hungarian
+Serbia,2, Bosnian 1.9%,False,Bosnian
+Serbia,3, Romani 1.4%,False,Romani
+Slovakia,0,Slovak (official) 78.6%,True,Slovak
+Slovakia,1, Hungarian 9.4%,False,Hungarian
+Slovakia,2, Roma 2.3%,False,Roma
+Slovakia,3, Ruthenian 1%,False,Ruthenian
+Slovenia,0,Slovene (official) 91.1%,True,Slovene
+Slovenia,1, Serbo-Croatian 4.5%,False,Serbo
+Slovenia,3, Italian (official,True,Italian
+Slovenia,4, only in municipalities where Italian national communities reside),False,Italian
+Slovenia,5, Hungarian (official,True,Hungarian
+Slovenia,6, only in municipalities where Hungarian national communities reside) (2002 census),False,Hungarian
+Spain,0,Castilian Spanish (official nationwide) 74%,True,Castilian
+Spain,1, Catalan (official in Catalonia,True,Catalan
+Spain,2, the Balearic Islands,False,Balearic
+Spain,3, and the Valencian Community (where it is known as Valencian)) 17%,False,Valencian
+Spain,4, Galician (official in Galicia) 7%,True,Galician
+Spain,5, Basque (official in the Basque Country and in the Basque-speaking area of Navarre) 2%,True,Basque
+Spain,6, Aranese (official in the northwest corner of Catalonia (Vall d'Aran) along with Catalan,True,Aranese
+Sweden,0,Swedish (official),True,Swedish
+Switzerland,0,German (or Swiss German) (official) 62.6%,True,German
+Switzerland,1, French (official) 22.9%,True,French
+Switzerland,2, Italian (official) 8.2%,True,Italian
+Switzerland,3, English 5.4%,False,English
+Switzerland,4, Portuguese 3.7%,False,Portuguese
+Switzerland,5, Albanian 3.2%,False,Albanian
+Switzerland,6, Serbo-Croatian 2.5%,False,Serbo
+Switzerland,7, Spanish 2.4%,False,Spanish
+Switzerland,8, Romansh (official) 0.5%,True,Romansh
+Ukraine,0,Ukrainian (official) 67.5%,True,Ukrainian
+Ukraine,1, Russian (regional language) 29.6%,False,Russian
+Ukraine,2, other (includes small Crimean Tatar-,False,Crimean
+Ukraine,3, Moldovan/Romanian-,False,Moldovan
+Ukraine,4, and Hungarian-speaking minorities) 2.9% (2001 est.),False,Hungarian
+United Kingdom,0,English,True,English
