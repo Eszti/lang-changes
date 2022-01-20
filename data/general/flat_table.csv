@@ -1,0 +1,149 @@
+,Country,langId,languageRaw,official,language,Name in English,Degree of endangerment,Endangerment code,Number of speakers,endangered,CountryID
+0,Albania,0,Albanian 98.8% (official - derived from Tosk dialect),True,Albanian,,,,,0,AL
+1,Albania,1, Greek 0.5%,False,Greek,,,,,0,AL
+2,Albania,2, other 0.6% (including Macedonian,False,Macedonian,,,,,0,AL
+3,Albania,3, Romani,False,Romani,Romani,Definitely endangered,2.0,3500000.0,1,AL
+4,Albania,4, Vlach,False,Vlach,,,,,0,AL
+5,Albania,5, Turkish,False,Turkish,,,,,0,AL
+6,Albania,6, Italian,False,Italian,,,,,0,AL
+7,Albania,7, and Serbo-Croatian),False,Croatian,,,,,0,AL
+8,Austria,0,German (official nationwide) 88.6%,True,German,,,,,0,AT
+9,Austria,1, Turkish 2.3%,False,Turkish,,,,,0,AT
+10,Austria,2, Serbian 2.2%,False,Serbian,,,,,0,AT
+11,Austria,3, Croatian (official in Burgenland) 1.6%,True,Croatian,,,,,0,AT
+12,Austria,4, other (includes Slovene,False,Slovene,,,,,0,AT
+13,Austria,6, and Hungarian,False,Hungarian,,,,,0,AT
+14,Austria,7, official in Burgenland) 5.3% (2001 est.),True,Burgenland Croatian,Burgenland Croatian,Definitely endangered,2.0,30000.0,1,AT
+15,Belarus,0,Russian (official) 70.2%,True,Russian,,,,,0,BY
+16,Belarus,1, Belarusian (official) 23.4%,True,Belarusian,Belarusian,Vulnerable,1.0,4000000.0,1,BY
+17,Belarus,2, other 3.1% (includes small Polish- and Ukrainian-speaking minorities),False,Polish,,,,,0,BY
+18,Belgium,0,Dutch (official) 60%,True,Dutch,,,,,0,BE
+19,Belgium,1, French (official) 40%,True,French,,,,,0,BE
+20,Belgium,2, German (official) less than 1%,True,German,,,,,0,BE
+21,Bosnia and Herzegovina,0,Bosnian (official) 52.9%,True,Bosnian,,,,,0,BA
+22,Bosnia and Herzegovina,1, Serbian (official) 30.8%,True,Serbian,,,,,0,BA
+23,Bosnia and Herzegovina,2, Croatian (official) 14.6%,True,Croatian,,,,,0,BA
+24,Bulgaria,0,Bulgarian (official) 76.8%,True,Bulgarian,,,,,0,BG
+25,Bulgaria,1, Turkish 8.2%,False,Turkish,,,,,0,BG
+26,Bulgaria,2, Romani 3.8%,False,Romani,Romani,Definitely endangered,2.0,3500000.0,1,BG
+27,Croatia,0,Croatian (official) 95.6%,True,Croatian,,,,,0,HR
+28,Croatia,1, Serbian 1.2%,False,Serbian,,,,,0,HR
+29,Croatia,2, other 3% (including Hungarian,False,Hungarian,,,,,0,HR
+30,Croatia,3, Czech,False,Czech,,,,,0,HR
+31,Croatia,4, Slovak,False,Slovak,,,,,0,HR
+32,Croatia,5, and Albanian),False,Albanian,,,,,0,HR
+33,Denmark,0,Danish,False,Danish,,,,,0,DK
+34,Denmark,1, Faroese,False,Faroese,Faroese,Vulnerable,1.0,60000.0,1,DK
+35,Denmark,2, Greenlandic (an Inuit dialect),False,Greenlandic,,,,,0,DK
+36,Denmark,3, German (small minority),False,German,,,,,0,DK
+37,Estonia,0,Estonian (official) 68.5%,True,Estonian,,,,,0,EE
+38,Estonia,1, Russian 29.6%,False,Russian,,,,,0,EE
+39,Estonia,2, Ukrainian 0.6%,False,Ukrainian,,,,,0,EE
+40,Finland,0,Finnish (official) 87.6%,True,Finnish,,,,,0,FI
+41,Finland,1, Swedish (official) 5.2%,True,Swedish,,,,,0,FI
+42,Finland,2, Russian 1.4%,False,Russian,,,,,0,FI
+43,France,0,French (official) 100%,True,French,,,,,0,FR
+44,France,1, declining regional dialects and languages (Provencal,False,Provencal,,,,,0,FR
+45,France,2, Breton,False,Breton,Breton,Severely endangered,3.0,250000.0,1,FR
+46,France,3, Alsatian,False,Alsatian,,,,,0,FR
+47,France,4, Corsican,False,Corsican,Corsican,Definitely endangered,2.0,160000.0,1,FR
+48,France,5, Catalan,False,Catalan,,,,,0,FR
+49,France,6, Basque,False,Basque,Basque,Vulnerable,1.0,660000.0,1,FR
+50,France,7, Flemish,False,Flemish,,,,,0,FR
+51,France,8, Occitan,False,Occitan,,,,,0,FR
+52,France,9, Picard),False,Picard,Picard,Severely endangered,3.0,700000.0,1,FR
+53,Germany,0,German (official),True,German,,,,,0,DE
+54,Greece,0,Greek (official) 99%,True,Greek,,,,,0,GR
+55,Greece,1, other (includes English and French) 1%,False,English,,,,,0,GR
+56,Hungary,0,Hungarian (official) 99.6%,True,Hungarian,,,,,0,HU
+57,Hungary,1, English 16%,False,English,,,,,0,HU
+58,Hungary,2, German 11.2%,False,German,,,,,0,HU
+59,Hungary,3, Russian 1.6%,False,Russian,,,,,0,HU
+60,Hungary,4, Romanian 1.3%,False,Romanian,,,,,0,HU
+61,Hungary,5, French 1.2%,False,French,,,,,0,HU
+62,Iceland,0,Icelandic,False,Icelandic,,,,,0,IS
+63,Iceland,1, English,False,English,,,,,0,IS
+64,Iceland,2, Nordic languages,False,Nordic,,,,,0,IS
+65,Iceland,3, German,False,German,,,,,0,IS
+66,Ireland,0,English (official,True,English,,,,,0,IE
+67,Ireland,2, Irish (Gaelic or Gaeilge) (official,True,Irish,Irish,Definitely endangered,2.0,44000.0,1,IE
+68,Italy,0,Italian (official),True,Italian,,,,,0,IT
+69,Italy,1, German (parts of Trentino-Alto Adige region are predominantly German speaking),False,German,,,,,0,IT
+70,Italy,2, French (small French-speaking minority in Valle d'Aosta region),False,French,,,,,0,IT
+71,Italy,3, Slovene (Slovene-speaking minority in the Trieste-Gorizia area),False,Slovene,,,,,0,IT
+72,Latvia,0,Latvian (official) 56.3%,True,Latvian,,,,,0,LV
+73,Latvia,1, Russian 33.8%,False,Russian,,,,,0,LV
+74,Latvia,2, other 0.6% (includes Polish,False,Polish,,,,,0,LV
+75,Latvia,3, Ukrainian,False,Ukrainian,,,,,0,LV
+76,Latvia,4, and Belarusian),False,Belarusian,Belarusian,Vulnerable,1.0,4000000.0,1,LV
+77,Lithuania,0,Lithuanian (official) 82%,True,Lithuanian,,,,,0,LT
+78,Lithuania,1, Russian 8%,False,Russian,,,,,0,LT
+79,Lithuania,2, Polish 5.6%,False,Polish,,,,,0,LT
+80,Luxembourg,0,Luxembourgish (official administrative and judicial language and national language (spoken vernacular)) 55.8%,True,Luxembourgish,,,,,0,LU
+81,Luxembourg,1, Portuguese 15.7%,False,Portuguese,,,,,0,LU
+82,Luxembourg,2, French (official administrative,True,French,,,,,0,LU
+83,Luxembourg,5, German (official administrative and judicial language) 3.1%,True,German,,,,,0,LU
+84,Luxembourg,6, Italian 2.9%,False,Italian,,,,,0,LU
+85,Luxembourg,7, English 2.1%,False,English,,,,,0,LU
+86,Malta,0,Maltese (official) 90.1%,True,Maltese,,,,,0,MT
+87,Malta,1, English (official) 6%,True,English,,,,,0,MT
+88,Moldova,0,Moldovan/Romanian 80.2% (official) (56.7% identify their mother tongue as Moldovan,True,Moldovan,,,,,0,MD
+89,Moldova,1, which is virtually the same as Romanian; 23.5% identify Romanian as their mother tongue),False,Romanian,,,,,0,MD
+90,Moldova,2, Russian 9.7%,False,Russian,,,,,0,MD
+91,Moldova,3, Gagauz 4.2% (a Turkish language),False,Gagauz,,,,,0,MD
+92,Moldova,4, Ukrainian 3.9%,False,Ukrainian,,,,,0,MD
+93,Moldova,5, Bulgarian 1.5%,False,Bulgarian,,,,,0,MD
+94,Moldova,6, Romani 0.3%,False,Romani,Romani,Definitely endangered,2.0,3500000.0,1,MD
+95,Montenegro,0,Serbian 42.9%,False,Serbian,,,,,0,ME
+96,Montenegro,1, Montenegrin (official) 37%,True,Montenegrin,,,,,0,ME
+97,Montenegro,2, Bosnian 5.3%,False,Bosnian,,,,,0,ME
+98,Montenegro,3, Albanian 5.3%,False,Albanian,,,,,0,ME
+99,Montenegro,4, Serbo-Croat 2%,False,Serbo,,,,,0,ME
+100,Netherlands,0,Dutch (official),True,Dutch,,,,,0,NL
+101,Norway,0,Bokmal Norwegian (official),True,Bokmal,,,,,0,NO
+102,Norway,1, Nynorsk Norwegian (official),True,Nynorsk,,,,,0,NO
+103,Norway,2, small Sami- and Finnish-speaking minorities,False,Sami,,,,,0,NO
+104,Poland,0,Polish (official) 98.2%,True,Polish,,,,,0,PL
+105,Poland,1, Silesian 1.4%,False,Silesian,,,,,0,PL
+106,Portugal,0,Portuguese (official),True,Portuguese,,,,,0,PT
+107,Portugal,1, Mirandese (official,True,Mirandese,,,,,0,PT
+108,Romania,0,Romanian (official) 85.4%,True,Romanian,,,,,0,RO
+109,Romania,1, Hungarian 6.3%,False,Hungarian,,,,,0,RO
+110,Romania,2, Romani 1.2%,False,Romani,Romani,Definitely endangered,2.0,3500000.0,1,RO
+111,Serbia,0,Serbian (official) 88.1%,True,Serbian,,,,,0,RS
+112,Serbia,1, Hungarian 3.4%,False,Hungarian,,,,,0,RS
+113,Serbia,2, Bosnian 1.9%,False,Bosnian,,,,,0,RS
+114,Serbia,3, Romani 1.4%,False,Romani,Romani,Definitely endangered,2.0,3500000.0,1,RS
+115,Slovakia,0,Slovak (official) 78.6%,True,Slovak,,,,,0,SK
+116,Slovakia,1, Hungarian 9.4%,False,Hungarian,,,,,0,SK
+117,Slovakia,2, Roma 2.3%,False,Roma,,,,,0,SK
+118,Slovakia,3, Ruthenian 1%,False,Ruthenian,,,,,0,SK
+119,Slovenia,0,Slovene (official) 91.1%,True,Slovene,,,,,0,SI
+120,Slovenia,1, Serbo-Croatian 4.5%,False,Serbo,,,,,0,SI
+121,Slovenia,3, Italian (official,True,Italian,,,,,0,SI
+122,Slovenia,4, only in municipalities where Italian national communities reside),False,Italian,,,,,0,SI
+123,Slovenia,5, Hungarian (official,True,Hungarian,,,,,0,SI
+124,Slovenia,6, only in municipalities where Hungarian national communities reside) (2002 census),False,Hungarian,,,,,0,SI
+125,Spain,0,Castilian Spanish (official nationwide) 74%,True,Castilian,,,,,0,ES
+126,Spain,1, Catalan (official in Catalonia,True,Catalan,,,,,0,ES
+127,Spain,2, the Balearic Islands,False,Balearic,,,,,0,ES
+128,Spain,3, and the Valencian Community (where it is known as Valencian)) 17%,False,Valencian,,,,,0,ES
+129,Spain,4, Galician (official in Galicia) 7%,True,Galician,,,,,0,ES
+130,Spain,5, Basque (official in the Basque Country and in the Basque-speaking area of Navarre) 2%,True,Basque,Basque,Vulnerable,1.0,660000.0,1,ES
+131,Spain,6, Aranese (official in the northwest corner of Catalonia (Vall d'Aran) along with Catalan,True,Aranese,,,,,0,ES
+132,Sweden,0,Swedish (official),True,Swedish,,,,,0,SE
+133,Switzerland,0,German (or Swiss German) (official) 62.6%,True,German,,,,,0,CH
+134,Switzerland,1, French (official) 22.9%,True,French,,,,,0,CH
+135,Switzerland,2, Italian (official) 8.2%,True,Italian,,,,,0,CH
+136,Switzerland,3, English 5.4%,False,English,,,,,0,CH
+137,Switzerland,4, Portuguese 3.7%,False,Portuguese,,,,,0,CH
+138,Switzerland,5, Albanian 3.2%,False,Albanian,,,,,0,CH
+139,Switzerland,6, Serbo-Croatian 2.5%,False,Serbo,,,,,0,CH
+140,Switzerland,7, Spanish 2.4%,False,Spanish,,,,,0,CH
+141,Switzerland,8, Romansh (official) 0.5%,True,Romansh,Romansh,Definitely endangered,2.0,35095.0,1,CH
+142,Ukraine,0,Ukrainian (official) 67.5%,True,Ukrainian,,,,,0,UA
+143,Ukraine,1, Russian (regional language) 29.6%,False,Russian,,,,,0,UA
+144,Ukraine,2, other (includes small Crimean Tatar-,False,Crimean,,,,,0,UA
+145,Ukraine,3, Moldovan/Romanian-,False,Moldovan,,,,,0,UA
+146,Ukraine,4, and Hungarian-speaking minorities) 2.9% (2001 est.),False,Hungarian,,,,,0,UA
+147,United Kingdom,0,English,True,English,,,,,0,GB
